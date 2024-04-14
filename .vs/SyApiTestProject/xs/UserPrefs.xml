@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4172D6C3-BD3B-430A-9ADF-DA7684A11032}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SyApiTestProject/Tests/NegativeCases.cs">
+    <Files>
+      <File FileName="SyApiTestProject/Tests/NegativeCases.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SyApiTestProject" expanded="True">
+            <Node name="SyApiTestProject" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="NegativeCases.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SyApiTestProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <AuthorInfo Name="amar" Email="amarr.kadic@gmail.com" Copyright="" Company="" Trademark="" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SyApiTestProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

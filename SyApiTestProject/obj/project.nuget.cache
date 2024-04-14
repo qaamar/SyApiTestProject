@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "JMPDt8wBt7VTTzWLGzUjFggQIZh1X2aaxRfLAwywb1b+xn5EsIPgIJgCFbmMWzZGmac+96u8ybvkPljmiTkNLg==",
+  "success": true,
+  "projectFilePath": "/Users/amar/Projects/SyApiTestProject/SyApiTestProject/SyApiTestProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/amar/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/amar/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit/2.7.1/xunit.2.7.1.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit.analyzers/1.12.0/xunit.analyzers.1.12.0.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit.assert/2.7.1/xunit.assert.2.7.1.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit.core/2.7.1/xunit.core.2.7.1.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit.extensibility.core/2.7.1/xunit.extensibility.core.2.7.1.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit.extensibility.execution/2.7.1/xunit.extensibility.execution.2.7.1.nupkg.sha512",
+    "/Users/amar/.nuget/packages/xunit.runner.visualstudio/2.5.8/xunit.runner.visualstudio.2.5.8.nupkg.sha512"
+  ],
+  "logs": []
+}
